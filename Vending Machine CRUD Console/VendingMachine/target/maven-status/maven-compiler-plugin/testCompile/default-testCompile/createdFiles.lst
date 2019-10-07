@@ -1,0 +1,5 @@
+com\sg\vendingmachine\dao\VendingMachineDAOFileImplTest.class
+com\sg\vendingmachine\service\stubs\VendingMachineDAOStubImpl.class
+com\sg\vendingmachine\dao\VendingMachineDAOFileImplCRUDTest.class
+com\sg\vendingmachine\service\stubs\VendingMachineAuditDAOStubImpl.class
+com\sg\vendingmachine\service\VendingMachineServiceTest.class

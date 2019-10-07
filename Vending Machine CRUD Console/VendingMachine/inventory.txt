@@ -1,0 +1,9 @@
+001::Comp Sci::2.00::0
+002::Economics::1.60::2
+003::Chem Eng::2.75::4
+004::CivilEng::1.50::0
+005::Business::1.75::0
+006::Radiology::2.25::5
+007::Fine Arts::0.25::79
+008::Medical Sci::0.01::15
+009::Mathematics::0.30::0
